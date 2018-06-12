@@ -45,7 +45,7 @@ bitversion=$(eval "getconf LONG_BIT")
 
 # Define an array of supported OS
 allowedOS=("Ubuntu16.04.1LTS" "Ubuntu14.04.5LTS"
-"Ubuntu14.04.4LTS" "Ubuntu16.04.2LTS" "Ubuntu16.04LTS")
+"Ubuntu14.04.4LTS" "Ubuntu16.04.3LTS" "Ubuntu16.04LTS")
 
 # Check if it supports the OS then proceed
 # else exit
